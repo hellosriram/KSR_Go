@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.helper;
+package com.ksr.ksrgo.helper;
 
 import com.quintus.labs.grocerystore.model.Category;
 import com.quintus.labs.grocerystore.model.Offer;

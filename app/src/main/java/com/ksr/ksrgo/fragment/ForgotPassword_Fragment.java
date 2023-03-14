@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.fragment;
+package com.ksr.ksrgo.fragment;
 
 import android.annotation.SuppressLint;
 import android.content.res.ColorStateList;
