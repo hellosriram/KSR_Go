@@ -21,8 +21,8 @@ import com.google.gson.Gson;
 import com.ksr.ksrgo.R;
 import com.ksr.ksrgo.model.User;
 import com.ksr.ksrgo.model.UserAddress;
-import com.quintus.labs.grocerystore.util.Utils;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.util.Utils;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import org.json.JSONArray;
 import org.json.JSONException;
