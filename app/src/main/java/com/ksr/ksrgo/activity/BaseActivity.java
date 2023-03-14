@@ -14,8 +14,8 @@ import androidx.core.content.ContextCompat;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.ksr.ksrgo.interfaces.AddorRemoveCallbacks;
-import com.quintus.labs.grocerystore.model.Cart;
-import com.quintus.labs.grocerystore.model.Order;
+import com.ksr.ksrgo.model.Cart;
+import com.ksr.ksrgo.model.Order;
 import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 
 import java.lang.reflect.Type;

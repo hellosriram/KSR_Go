@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.interfaces;
+package com.ksr.ksrgo.interfaces;
 
 
 /**

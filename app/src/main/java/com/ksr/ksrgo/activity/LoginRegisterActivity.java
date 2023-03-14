@@ -9,16 +9,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.fragment.Login_Fragment;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.fragment.Login_Fragment;
 import com.quintus.labs.grocerystore.util.Utils;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class LoginRegisterActivity extends AppCompatActivity {
     private static FragmentManager fragmentManager;
 

@@ -24,17 +24,17 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.fragment.CategoryFragment;
-import com.quintus.labs.grocerystore.fragment.HomeFragment;
-import com.quintus.labs.grocerystore.fragment.MyOrderFragment;
-import com.quintus.labs.grocerystore.fragment.NewProductFragment;
-import com.quintus.labs.grocerystore.fragment.OffrersFragment;
-import com.quintus.labs.grocerystore.fragment.PopularProductFragment;
-import com.quintus.labs.grocerystore.fragment.ProfileFragment;
-import com.quintus.labs.grocerystore.helper.Converter;
-import com.quintus.labs.grocerystore.model.User;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.fragment.CategoryFragment;
+import com.ksr.ksrgo.fragment.HomeFragment;
+import com.ksr.ksrgo.fragment.MyOrderFragment;
+import com.ksr.ksrgo.fragment.NewProductFragment;
+import com.ksr.ksrgo.fragment.OffrersFragment;
+import com.ksr.ksrgo.fragment.PopularProductFragment;
+import com.ksr.ksrgo.fragment.ProfileFragment;
+import com.ksr.ksrgo.helper.Converter;
+import com.ksr.ksrgo.model.User;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.util.ArrayList;
 
