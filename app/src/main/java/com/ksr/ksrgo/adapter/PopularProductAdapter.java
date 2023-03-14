@@ -16,14 +16,14 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.activity.BaseActivity;
-import com.quintus.labs.grocerystore.activity.MainActivity;
-import com.quintus.labs.grocerystore.activity.ProductViewActivity;
-import com.quintus.labs.grocerystore.interfaces.AddorRemoveCallbacks;
-import com.quintus.labs.grocerystore.model.Cart;
-import com.quintus.labs.grocerystore.model.Product;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.activity.BaseActivity;
+import com.ksr.ksrgo.activity.MainActivity;
+import com.ksr.ksrgo.activity.ProductViewActivity;
+import com.ksr.ksrgo.interfaces.AddorRemoveCallbacks;
+import com.ksr.ksrgo.model.Cart;
+import com.ksr.ksrgo.model.Product;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 

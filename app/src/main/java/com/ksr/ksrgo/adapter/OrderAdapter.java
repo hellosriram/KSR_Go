@@ -10,9 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.model.Order;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.model.Order;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.util.List;
 

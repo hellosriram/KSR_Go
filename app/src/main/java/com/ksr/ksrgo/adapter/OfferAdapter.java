@@ -10,8 +10,8 @@ import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.model.Offer;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.model.Offer;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 

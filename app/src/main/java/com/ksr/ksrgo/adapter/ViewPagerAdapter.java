@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import com.quintus.labs.grocerystore.R;
+import com.ksr.ksrgo.R;
 
 /**
  * Grocery App

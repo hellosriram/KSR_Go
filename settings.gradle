@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "KSR Go"
 include ':app'
+include ':libs:picasso-master'
