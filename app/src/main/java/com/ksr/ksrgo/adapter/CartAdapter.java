@@ -18,7 +18,7 @@ import com.google.gson.Gson;
 import com.ksr.ksrgo.R;
 import com.ksr.ksrgo.activity.CartActivity;
 import com.ksr.ksrgo.model.Cart;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 

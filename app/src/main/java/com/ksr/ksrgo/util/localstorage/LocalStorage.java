@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.util.localstorage;
+package com.ksr.ksrgo.util.localstorage;
 
 import android.content.Context;
 import android.content.SharedPreferences;

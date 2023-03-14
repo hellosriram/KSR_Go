@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.quintus.labs.grocerystore.R;
+import com.ksr.ksrgo.R;
 
 /**
  * Grocery App
