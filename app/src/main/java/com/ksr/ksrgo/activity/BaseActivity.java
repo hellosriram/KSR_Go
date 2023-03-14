@@ -13,7 +13,7 @@ import androidx.core.content.ContextCompat;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.quintus.labs.grocerystore.interfaces.AddorRemoveCallbacks;
+import com.ksr.ksrgo.interfaces.AddorRemoveCallbacks;
 import com.quintus.labs.grocerystore.model.Cart;
 import com.quintus.labs.grocerystore.model.Order;
 import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
@@ -22,12 +22,6 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
 
 public class BaseActivity extends AppCompatActivity implements AddorRemoveCallbacks {
     public static final String TAG = "BaseActivity===>";
