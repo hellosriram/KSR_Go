@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.model;
+package com.ksr.ksrgo.model;
 
 /**
  * Grocery App
