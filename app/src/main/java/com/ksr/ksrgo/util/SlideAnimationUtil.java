@@ -1,10 +1,10 @@
-package com.quintus.labs.grocerystore.util;
+package com.ksr.ksrgo.util;
 
 import android.content.Context;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import com.quintus.labs.grocerystore.R;
+import com.ksr.ksrgo.util.R;
 
 /**
  * Grocery App
