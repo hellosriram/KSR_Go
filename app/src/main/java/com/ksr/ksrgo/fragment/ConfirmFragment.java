@@ -19,14 +19,14 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.activity.BaseActivity;
-import com.quintus.labs.grocerystore.activity.CartActivity;
-import com.quintus.labs.grocerystore.activity.MainActivity;
-import com.quintus.labs.grocerystore.adapter.CheckoutCartAdapter;
-import com.quintus.labs.grocerystore.model.Cart;
-import com.quintus.labs.grocerystore.model.Order;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.activity.BaseActivity;
+import com.ksr.ksrgo.activity.CartActivity;
+import com.ksr.ksrgo.activity.MainActivity;
+import com.ksr.ksrgo.adapter.CheckoutCartAdapter;
+import com.ksr.ksrgo.model.Cart;
+import com.ksr.ksrgo.model.Order;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

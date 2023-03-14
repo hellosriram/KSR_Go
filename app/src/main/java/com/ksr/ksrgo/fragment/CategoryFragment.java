@@ -12,10 +12,10 @@ import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.adapter.CategoryAdapter;
-import com.quintus.labs.grocerystore.helper.Data;
-import com.quintus.labs.grocerystore.model.Category;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.adapter.CategoryAdapter;
+import com.ksr.ksrgo.helper.Data;
+import com.ksr.ksrgo.model.Category;
 
 import java.util.ArrayList;
 import java.util.List;
