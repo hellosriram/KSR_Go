@@ -1,8 +1,8 @@
 package com.ksr.ksrgo.helper;
 
-import com.quintus.labs.grocerystore.model.Category;
-import com.quintus.labs.grocerystore.model.Offer;
-import com.quintus.labs.grocerystore.model.Product;
+import com.ksr.ksrgo.model.Category;
+import com.ksr.ksrgo.model.Offer;
+import com.ksr.ksrgo.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

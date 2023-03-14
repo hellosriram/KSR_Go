@@ -1,4 +1,4 @@
-package com.ksr.ksrgo.util;
+package com.ksr.labs.ksrgo.util.localstorage;
 
 
 import android.content.Context;
@@ -9,12 +9,12 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ksr.ksrgo.util.R;
+import com.ksr.ksrgo.R;
 
 /**
  * Grocery App
  * https://github.com/quintuslabs/GroceryStore
- * Created on 18 -Feb-2019.
+ * Created on 18-Feb-2019.
  * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 public class CustomToast {

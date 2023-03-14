@@ -14,15 +14,10 @@ import android.widget.TextView;
 import androidx.appcompat.app.ActionBar;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.fragment.AddressFragment;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.fragment.AddressFragment;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class CheckoutActivity extends BaseActivity {
 
     @Override

@@ -22,20 +22,15 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.adapter.CartAdapter;
-import com.quintus.labs.grocerystore.model.Cart;
+import  com.ksr.ksrgo.R;
+import com.ksr.ksrgo.adapter.CartAdapter;
+import  com.ksr.ksrgo.model.Cart;
 import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class CartActivity extends BaseActivity {
     LocalStorage localStorage;
     List<Cart> cartList = new ArrayList<>();
