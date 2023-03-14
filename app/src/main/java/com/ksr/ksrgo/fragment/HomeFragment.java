@@ -18,14 +18,14 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager.widget.ViewPager;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.activity.MainActivity;
-import com.quintus.labs.grocerystore.adapter.CategoryAdapter;
-import com.quintus.labs.grocerystore.adapter.HomeSliderAdapter;
-import com.quintus.labs.grocerystore.adapter.NewProductAdapter;
-import com.quintus.labs.grocerystore.adapter.PopularProductAdapter;
-import com.quintus.labs.grocerystore.helper.Data;
-import com.quintus.labs.grocerystore.model.Category;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.activity.MainActivity;
+import com.ksr.ksrgo.adapter.CategoryAdapter;
+import com.ksr.ksrgo.adapter.HomeSliderAdapter;
+import com.ksr.ksrgo.adapter.NewProductAdapter;
+import com.ksr.ksrgo.adapter.PopularProductAdapter;
+import com.ksr.ksrgo.helper.Data;
+import com.ksr.ksrgo.model.Category;
 
 import java.util.ArrayList;
 import java.util.List;
