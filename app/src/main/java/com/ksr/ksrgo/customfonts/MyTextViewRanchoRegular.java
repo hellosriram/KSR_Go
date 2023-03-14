@@ -1,5 +1,4 @@
-package com.quintus.labs.grocerystore.customfonts;
-
+package com.ksr.ksrgo.customfonts;
 import android.content.Context;
 import android.graphics.Typeface;
 import android.util.AttributeSet;

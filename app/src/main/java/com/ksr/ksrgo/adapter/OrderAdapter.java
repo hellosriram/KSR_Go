@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.adapter;
+package com.ksr.ksrgo.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

@@ -1,4 +1,4 @@
-package com.quintus.labs.grocerystore.fragment;
+package com.ksr.ksrgo.fragment;
 
 
 import android.content.Context;
@@ -18,9 +18,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.google.gson.Gson;
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.model.User;
-import com.quintus.labs.grocerystore.model.UserAddress;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.model.User;
+import com.ksr.ksrgo.model.UserAddress;
 import com.quintus.labs.grocerystore.util.Utils;
 import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 
