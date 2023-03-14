@@ -13,19 +13,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.adapter.ViewPagerAdapter;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.adapter.ViewPagerAdapter;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class WelcomeActivity extends AppCompatActivity {
 
     ViewPager viewPager;

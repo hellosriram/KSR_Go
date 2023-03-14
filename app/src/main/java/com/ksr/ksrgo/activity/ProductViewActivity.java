@@ -19,21 +19,16 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.ActionBar;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.helper.Converter;
-import com.quintus.labs.grocerystore.model.Cart;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.helper.Converter;
+import com.ksr.ksrgo.model.Cart;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class ProductViewActivity extends BaseActivity {
     private static int cart_count = 0;
     public TextView quantity, inc, dec;

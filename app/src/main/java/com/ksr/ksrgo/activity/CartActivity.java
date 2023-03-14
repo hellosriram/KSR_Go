@@ -25,7 +25,7 @@ import com.google.gson.Gson;
 import  com.ksr.ksrgo.R;
 import com.ksr.ksrgo.adapter.CartAdapter;
 import  com.ksr.ksrgo.model.Cart;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.util.ArrayList;
 import java.util.List;

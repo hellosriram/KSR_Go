@@ -16,7 +16,7 @@ import com.google.gson.reflect.TypeToken;
 import com.ksr.ksrgo.interfaces.AddorRemoveCallbacks;
 import com.ksr.ksrgo.model.Cart;
 import com.ksr.ksrgo.model.Order;
-import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
+import com.ksr.ksrgo.util.localstorage.LocalStorage;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

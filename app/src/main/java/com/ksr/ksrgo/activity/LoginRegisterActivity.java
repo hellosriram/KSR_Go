@@ -11,7 +11,7 @@ import androidx.fragment.app.FragmentManager;
 
 import com.ksr.ksrgo.R;
 import com.ksr.ksrgo.fragment.Login_Fragment;
-import com.quintus.labs.grocerystore.util.Utils;
+import com.ksr.ksrgo.util.Utils;
 
 
 public class LoginRegisterActivity extends AppCompatActivity {

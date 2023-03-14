@@ -20,17 +20,12 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.quintus.labs.grocerystore.R;
-import com.quintus.labs.grocerystore.adapter.ProductAdapter;
-import com.quintus.labs.grocerystore.helper.Converter;
-import com.quintus.labs.grocerystore.helper.Data;
+import com.ksr.ksrgo.R;
+import com.ksr.ksrgo.adapter.ProductAdapter;
+import com.ksr.ksrgo.helper.Converter;
+import com.ksr.ksrgo.helper.Data;
 
-/**
- * Grocery App
- * https://github.com/quintuslabs/GroceryStore
- * Created on 18-Feb-2019.
- * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
- */
+
 public class ProductActivity extends BaseActivity {
     private static int cart_count = 0;
     Data data;
